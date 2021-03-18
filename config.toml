@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://flutterfly.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
